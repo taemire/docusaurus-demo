@@ -17,7 +17,7 @@ Docusaurus와 Notion을 간단하게 비교해보았습니다.
 
 [Docusaurus](https://docusaurus.io)는 Facebook에서 만든 **정적 사이트 생성기**입니다. 문서화와 관련하여 지원하는 기능이 많습니다.
 
-지금 이 사이트도 Docusaurus로 만들어졌습니다.
+지금 이 사이트도 Docusaurus로 만들어졌습니다..
 
 ### 장점
 
